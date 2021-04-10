@@ -1,0 +1,101 @@
+{
+  "agent": [
+    {
+      "name": "DialogAgent",
+      "dst": {
+        "name": "RuleDST"
+      },
+      "state_encoder": {
+        "name": "MultiWozStateEncoder"
+      },
+      "action_decoder": {
+        "name": "MultiWozVocabActionDecoder"
+      },
+      "algorithm": {
+        "name": "DQN",
+        "action_pdtype": "Argmax",
+        "action_policy": "epsilon_greedy",
+        "explore_var_spec": {
+          "name": "linear_decay",
+          "start_val": 0.1,
+          "end_val": 0.01,
+          "start_step": 0,
+          "end_step": 500000
+        },
+        "gamma": 0.9,
+        "training_batch_iter": 1,
+        "training_iter": 500,
+        "training_frequency": 200,
+        "training_start_step": 32
+      },
+      "memory": {
+        "name": "Replay",
+        "batch_size": 16,
+        "max_size": 50000,
+        "use_cer": false
+      },
+      "net": {
+        "type": "MLPNet",
+        "hid_layers": [
+          100
+        ],
+        "hid_layers_activation": "relu",
+        "clip_grad_val": null,
+        "loss_spec": {
+          "name": "MSELoss"
+        },
+        "optim_spec": {
+          "name": "Adam",
+          "lr": 0.001
+        },
+        "lr_scheduler_spec": {
+          "name": "StepLR",
+          "step_size": 1000,
+          "gamma": 0.999
+        },
+        "update_type": "replace",
+        "update_frequency": 300,
+        "polyak_coef": 0,
+        "gpu": false
+      }
+    }
+  ],
+  "env": [
+    {
+      "name": "multiwoz",
+      "action_dim": 300,
+      "observation_dim": 392,
+      "max_t": 40,
+      "max_frame": 500000,
+      "user_policy": {
+        "name": "UserPolicyAgendaMultiWoz"
+      },
+      "sys_policy": {
+        "name": "RuleBasedMultiwozBot"
+      }
+    }
+  ],
+  "meta": {
+    "distributed": false,
+    "num_eval": 100,
+    "eval_frequency": 1000,
+    "max_tick_unit": "total_t",
+    "max_trial": 1,
+    "max_session": 10,
+    "resources": {
+      "num_cpus": 1,
+      "num_gpus": 0
+    },
+    "experiment": -1,
+    "trial": -1,
+    "session": -1,
+    "cuda_offset": 0,
+    "experiment_ts": "2020_10_08_165651",
+    "prepath": null,
+    "ckpt": null,
+    "git_sha": "f2f61c91cc9ba78445ab8b94beaf75b435b1023b",
+    "random_seed": null,
+    "eval_model_prepath": null
+  },
+  "name": "rule_dqn"
+}

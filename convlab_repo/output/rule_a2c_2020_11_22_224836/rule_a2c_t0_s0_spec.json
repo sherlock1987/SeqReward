@@ -1,0 +1,105 @@
+{
+  "agent": [
+    {
+      "name": "DialogAgent",
+      "dst": {
+        "name": "RuleDST"
+      },
+      "state_encoder": {
+        "name": "MultiWozStateEncoder"
+      },
+      "action_decoder": {
+        "name": "MultiWozVocabActionDecoder"
+      },
+      "algorithm": {
+        "name": "ActorCritic",
+        "action_pdtype": "default",
+        "action_policy": "default",
+        "explore_var_spec": null,
+        "load_pretrain_policy": true,
+        "gamma": 0.99,
+        "lam": 0.9500000000000001,
+        "num_step_returns": null,
+        "entropy_coef_spec": {
+          "name": "linear_decay",
+          "start_val": 0.001,
+          "end_val": 0.001,
+          "start_step": 1000,
+          "end_step": 500000
+        },
+        "policy_loss_coef": 1.0,
+        "val_loss_coef": 1.0,
+        "training_frequency": 150
+      },
+      "memory": {
+        "name": "OnPolicyReplay"
+      },
+      "net": {
+        "type": "MLPNet",
+        "shared": false,
+        "hid_layers": [
+          100
+        ],
+        "hid_layers_activation": "relu",
+        "clip_grad_val": 10.0,
+        "use_same_optim": false,
+        "actor_optim_spec": {
+          "name": "Adam",
+          "lr": 0.001
+        },
+        "critic_optim_spec": {
+          "name": "Adam",
+          "lr": 0.001
+        },
+        "lr_scheduler_spec": {
+          "name": "StepLR",
+          "step_size": 2000,
+          "gamma": 0.999
+        },
+        "gpu": false
+      }
+    }
+  ],
+  "env": [
+    {
+      "name": "multiwoz",
+      "action_dim": 300,
+      "observation_dim": 392,
+      "max_t": 40,
+      "max_frame": 400000,
+      "user_policy": {
+        "name": "UserPolicyAgendaMultiWoz"
+      },
+      "sys_policy": {
+        "name": "RuleBasedMultiwozBot"
+      }
+    }
+  ],
+  "meta": {
+    "distributed": false,
+    "num_eval": 100,
+    "eval_frequency": 1000,
+    "max_tick_unit": "total_t",
+    "max_trial": 1,
+    "max_session": 1,
+    "resources": {
+      "num_cpus": 1,
+      "num_gpus": 0
+    },
+    "experiment": 0,
+    "trial": 0,
+    "session": 0,
+    "cuda_offset": 0,
+    "experiment_ts": "2020_11_22_224836",
+    "prepath": "output/rule_a2c_2020_11_22_224836/rule_a2c_t0_s0",
+    "ckpt": null,
+    "git_sha": "ec316d19ecafde095b9c7f03b622835bbe4e3fa6",
+    "random_seed": 1606056526,
+    "eval_model_prepath": null,
+    "graph_prepath": "output/rule_a2c_2020_11_22_224836/graph/rule_a2c_t0_s0",
+    "info_prepath": "output/rule_a2c_2020_11_22_224836/info/rule_a2c_t0_s0",
+    "log_prepath": "output/rule_a2c_2020_11_22_224836/log/rule_a2c_t0_s0",
+    "model_prepath": "output/rule_a2c_2020_11_22_224836/model/rule_a2c_t0_s0"
+  },
+  "name": "rule_a2c"
+}

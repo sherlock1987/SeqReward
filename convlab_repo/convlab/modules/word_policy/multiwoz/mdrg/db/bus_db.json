@@ -1,0 +1,2408 @@
+[
+    {
+        "arriveBy": "05:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "05:00",
+        "price": "23.60 pounds",
+        "trainID": "TR7075"
+    },
+    {
+        "arriveBy": "07:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "07:00",
+        "price": "23.60 pounds",
+        "trainID": "TR2289"
+    },
+    {
+        "arriveBy": "09:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "09:00",
+        "price": "23.60 pounds",
+        "trainID": "TR7409"
+    },
+    {
+        "arriveBy": "11:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "11:00",
+        "price": "23.60 pounds",
+        "trainID": "TR1111"
+    },
+    {
+        "arriveBy": "13:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "13:00",
+        "price": "23.60 pounds",
+        "trainID": "TR6110"
+    },
+    {
+        "arriveBy": "15:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "15:00",
+        "price": "23.60 pounds",
+        "trainID": "TR6028"
+    },
+    {
+        "arriveBy": "17:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "17:00",
+        "price": "23.60 pounds",
+        "trainID": "TR7786"
+    },
+    {
+        "arriveBy": "19:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "19:00",
+        "price": "23.60 pounds",
+        "trainID": "TR4957"
+    },
+    {
+        "arriveBy": "21:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "21:00",
+        "price": "23.60 pounds",
+        "trainID": "TR2634"
+    },
+    {
+        "arriveBy": "23:51",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "23:00",
+        "price": "23.60 pounds",
+        "trainID": "TR1428"
+    },
+    {
+        "arriveBy": "05:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "05:00",
+        "price": "23.60 pounds",
+        "trainID": "TR9536"
+    },
+    {
+        "arriveBy": "07:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "07:00",
+        "price": "23.60 pounds",
+        "trainID": "TR3343"
+    },
+    {
+        "arriveBy": "09:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "09:00",
+        "price": "23.60 pounds",
+        "trainID": "TR3371"
+    },
+    {
+        "arriveBy": "11:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "11:00",
+        "price": "23.60 pounds",
+        "trainID": "TR6925"
+    },
+    {
+        "arriveBy": "13:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "13:00",
+        "price": "23.60 pounds",
+        "trainID": "TR0315"
+    },
+    {
+        "arriveBy": "15:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "15:00",
+        "price": "23.60 pounds",
+        "trainID": "TR2643"
+    },
+    {
+        "arriveBy": "17:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "17:00",
+        "price": "23.60 pounds",
+        "trainID": "TR0945"
+    },
+    {
+        "arriveBy": "19:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "19:00",
+        "price": "23.60 pounds",
+        "trainID": "TR4125"
+    },
+    {
+        "arriveBy": "21:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "21:00",
+        "price": "23.60 pounds",
+        "trainID": "TR5941"
+    },
+    {
+        "arriveBy": "23:51",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "23:00",
+        "price": "23.60 pounds",
+        "trainID": "TR6595"
+    },
+    {
+        "arriveBy": "05:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "05:00",
+        "price": "23.60 pounds",
+        "trainID": "TR3702"
+    },
+    {
+        "arriveBy": "07:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "07:00",
+        "price": "23.60 pounds",
+        "trainID": "TR1058"
+    },
+    {
+        "arriveBy": "09:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "09:00",
+        "price": "23.60 pounds",
+        "trainID": "TR6583"
+    },
+    {
+        "arriveBy": "11:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "11:00",
+        "price": "23.60 pounds",
+        "trainID": "TR9781"
+    },
+    {
+        "arriveBy": "13:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "13:00",
+        "price": "23.60 pounds",
+        "trainID": "TR3624"
+    },
+    {
+        "arriveBy": "15:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "15:00",
+        "price": "23.60 pounds",
+        "trainID": "TR9557"
+    },
+    {
+        "arriveBy": "17:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "17:00",
+        "price": "23.60 pounds",
+        "trainID": "TR3843"
+    },
+    {
+        "arriveBy": "19:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "19:00",
+        "price": "23.60 pounds",
+        "trainID": "TR8676"
+    },
+    {
+        "arriveBy": "21:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "21:00",
+        "price": "23.60 pounds",
+        "trainID": "TR4218"
+    },
+    {
+        "arriveBy": "23:51",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "23:00",
+        "price": "23.60 pounds",
+        "trainID": "TR7942"
+    },
+    {
+        "arriveBy": "05:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "05:00",
+        "price": "23.60 pounds",
+        "trainID": "TR8272"
+    },
+    {
+        "arriveBy": "07:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "07:00",
+        "price": "23.60 pounds",
+        "trainID": "TR8335"
+    },
+    {
+        "arriveBy": "09:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "09:00",
+        "price": "23.60 pounds",
+        "trainID": "TR8636"
+    },
+    {
+        "arriveBy": "11:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "11:00",
+        "price": "23.60 pounds",
+        "trainID": "TR3433"
+    },
+    {
+        "arriveBy": "13:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "13:00",
+        "price": "23.60 pounds",
+        "trainID": "TR0792"
+    },
+    {
+        "arriveBy": "15:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "15:00",
+        "price": "23.60 pounds",
+        "trainID": "TR5266"
+    },
+    {
+        "arriveBy": "17:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "17:00",
+        "price": "23.60 pounds",
+        "trainID": "TR1791"
+    },
+    {
+        "arriveBy": "19:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "19:00",
+        "price": "23.60 pounds",
+        "trainID": "TR6595"
+    },
+    {
+        "arriveBy": "21:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "21:00",
+        "price": "23.60 pounds",
+        "trainID": "TR0720"
+    },
+    {
+        "arriveBy": "23:51",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "23:00",
+        "price": "23.60 pounds",
+        "trainID": "TR9478"
+    },
+    {
+        "arriveBy": "05:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "05:00",
+        "price": "23.60 pounds",
+        "trainID": "TR5767"
+    },
+    {
+        "arriveBy": "07:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "07:00",
+        "price": "23.60 pounds",
+        "trainID": "TR8026"
+    },
+    {
+        "arriveBy": "09:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "09:00",
+        "price": "23.60 pounds",
+        "trainID": "TR2000"
+    },
+    {
+        "arriveBy": "11:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "11:00",
+        "price": "23.60 pounds",
+        "trainID": "TR1502"
+    },
+    {
+        "arriveBy": "13:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "13:00",
+        "price": "23.60 pounds",
+        "trainID": "TR3685"
+    },
+    {
+        "arriveBy": "15:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "15:00",
+        "price": "23.60 pounds",
+        "trainID": "TR2420"
+    },
+    {
+        "arriveBy": "17:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "17:00",
+        "price": "23.60 pounds",
+        "trainID": "TR6628"
+    },
+    {
+        "arriveBy": "19:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "19:00",
+        "price": "23.60 pounds",
+        "trainID": "TR1006"
+    },
+    {
+        "arriveBy": "21:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "21:00",
+        "price": "23.60 pounds",
+        "trainID": "TR3055"
+    },
+    {
+        "arriveBy": "23:51",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "23:00",
+        "price": "23.60 pounds",
+        "trainID": "TR9876"
+    },
+    {
+        "arriveBy": "05:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "05:00",
+        "price": "18.88 pounds",
+        "trainID": "TR0899"
+    },
+    {
+        "arriveBy": "07:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "07:00",
+        "price": "18.88 pounds",
+        "trainID": "TR9941"
+    },
+    {
+        "arriveBy": "09:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "09:00",
+        "price": "18.88 pounds",
+        "trainID": "TR2138"
+    },
+    {
+        "arriveBy": "11:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "11:00",
+        "price": "18.88 pounds",
+        "trainID": "TR5170"
+    },
+    {
+        "arriveBy": "13:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "13:00",
+        "price": "18.88 pounds",
+        "trainID": "TR4003"
+    },
+    {
+        "arriveBy": "15:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "15:00",
+        "price": "18.88 pounds",
+        "trainID": "TR6203"
+    },
+    {
+        "arriveBy": "17:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "17:00",
+        "price": "18.88 pounds",
+        "trainID": "TR8134"
+    },
+    {
+        "arriveBy": "19:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "19:00",
+        "price": "18.88 pounds",
+        "trainID": "TR0427"
+    },
+    {
+        "arriveBy": "21:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "21:00",
+        "price": "18.88 pounds",
+        "trainID": "TR0925"
+    },
+    {
+        "arriveBy": "23:51",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "23:00",
+        "price": "18.88 pounds",
+        "trainID": "TR4898"
+    },
+    {
+        "arriveBy": "05:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "05:00",
+        "price": "18.88 pounds",
+        "trainID": "TR7423"
+    },
+    {
+        "arriveBy": "07:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "07:00",
+        "price": "18.88 pounds",
+        "trainID": "TR3207"
+    },
+    {
+        "arriveBy": "09:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "09:00",
+        "price": "18.88 pounds",
+        "trainID": "TR6198"
+    },
+    {
+        "arriveBy": "11:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "11:00",
+        "price": "18.88 pounds",
+        "trainID": "TR8799"
+    },
+    {
+        "arriveBy": "13:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "13:00",
+        "price": "18.88 pounds",
+        "trainID": "TR7447"
+    },
+    {
+        "arriveBy": "15:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "15:00",
+        "price": "18.88 pounds",
+        "trainID": "TR9386"
+    },
+    {
+        "arriveBy": "17:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "17:00",
+        "price": "18.88 pounds",
+        "trainID": "TR3353"
+    },
+    {
+        "arriveBy": "19:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "19:00",
+        "price": "18.88 pounds",
+        "trainID": "TR9039"
+    },
+    {
+        "arriveBy": "21:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "21:00",
+        "price": "18.88 pounds",
+        "trainID": "TR5143"
+    },
+    {
+        "arriveBy": "23:51",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london kings cross",
+        "duration": "51 minutes",
+        "leaveAt": "23:00",
+        "price": "18.88 pounds",
+        "trainID": "TR5594"
+    },
+    {
+        "arriveBy": "06:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "05:17",
+        "price": "23.60 pounds",
+        "trainID": "TR0378"
+    },
+    {
+        "arriveBy": "08:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "07:17",
+        "price": "23.60 pounds",
+        "trainID": "TR9276"
+    },
+    {
+        "arriveBy": "10:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "09:17",
+        "price": "23.60 pounds",
+        "trainID": "TR3899"
+    },
+    {
+        "arriveBy": "12:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "11:17",
+        "price": "23.60 pounds",
+        "trainID": "TR5720"
+    },
+    {
+        "arriveBy": "14:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "13:17",
+        "price": "23.60 pounds",
+        "trainID": "TR3194"
+    },
+    {
+        "arriveBy": "16:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "15:17",
+        "price": "23.60 pounds",
+        "trainID": "TR9114"
+    },
+    {
+        "arriveBy": "18:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "17:17",
+        "price": "23.60 pounds",
+        "trainID": "TR7556"
+    },
+    {
+        "arriveBy": "20:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "19:17",
+        "price": "23.60 pounds",
+        "trainID": "TR8288"
+    },
+    {
+        "arriveBy": "22:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "21:17",
+        "price": "23.60 pounds",
+        "trainID": "TR5325"
+    },
+    {
+        "arriveBy": "24:08",
+        "day": "monday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "23:17",
+        "price": "23.60 pounds",
+        "trainID": "TR2851"
+    },
+    {
+        "arriveBy": "06:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "05:17",
+        "price": "23.60 pounds",
+        "trainID": "TR7909"
+    },
+    {
+        "arriveBy": "08:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "07:17",
+        "price": "23.60 pounds",
+        "trainID": "TR8105"
+    },
+    {
+        "arriveBy": "10:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "09:17",
+        "price": "23.60 pounds",
+        "trainID": "TR4987"
+    },
+    {
+        "arriveBy": "12:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "11:17",
+        "price": "23.60 pounds",
+        "trainID": "TR7850"
+    },
+    {
+        "arriveBy": "14:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "13:17",
+        "price": "23.60 pounds",
+        "trainID": "TR3456"
+    },
+    {
+        "arriveBy": "16:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "15:17",
+        "price": "23.60 pounds",
+        "trainID": "TR0269"
+    },
+    {
+        "arriveBy": "18:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "17:17",
+        "price": "23.60 pounds",
+        "trainID": "TR1434"
+    },
+    {
+        "arriveBy": "20:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "19:17",
+        "price": "23.60 pounds",
+        "trainID": "TR4429"
+    },
+    {
+        "arriveBy": "22:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "21:17",
+        "price": "23.60 pounds",
+        "trainID": "TR6300"
+    },
+    {
+        "arriveBy": "24:08",
+        "day": "tuesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "23:17",
+        "price": "23.60 pounds",
+        "trainID": "TR2471"
+    },
+    {
+        "arriveBy": "06:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "05:17",
+        "price": "23.60 pounds",
+        "trainID": "TR5725"
+    },
+    {
+        "arriveBy": "08:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "07:17",
+        "price": "23.60 pounds",
+        "trainID": "TR4543"
+    },
+    {
+        "arriveBy": "10:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "09:17",
+        "price": "23.60 pounds",
+        "trainID": "TR3810"
+    },
+    {
+        "arriveBy": "12:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "11:17",
+        "price": "23.60 pounds",
+        "trainID": "TR2417"
+    },
+    {
+        "arriveBy": "14:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "13:17",
+        "price": "23.60 pounds",
+        "trainID": "TR0922"
+    },
+    {
+        "arriveBy": "16:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "15:17",
+        "price": "23.60 pounds",
+        "trainID": "TR0397"
+    },
+    {
+        "arriveBy": "18:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "17:17",
+        "price": "23.60 pounds",
+        "trainID": "TR6045"
+    },
+    {
+        "arriveBy": "20:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "19:17",
+        "price": "23.60 pounds",
+        "trainID": "TR9332"
+    },
+    {
+        "arriveBy": "22:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "21:17",
+        "price": "23.60 pounds",
+        "trainID": "TR7326"
+    },
+    {
+        "arriveBy": "24:08",
+        "day": "wednesday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "23:17",
+        "price": "23.60 pounds",
+        "trainID": "TR7010"
+    },
+    {
+        "arriveBy": "06:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "05:17",
+        "price": "23.60 pounds",
+        "trainID": "TR2775"
+    },
+    {
+        "arriveBy": "08:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "07:17",
+        "price": "23.60 pounds",
+        "trainID": "TR4016"
+    },
+    {
+        "arriveBy": "10:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "09:17",
+        "price": "23.60 pounds",
+        "trainID": "TR8410"
+    },
+    {
+        "arriveBy": "12:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "11:17",
+        "price": "23.60 pounds",
+        "trainID": "TR4216"
+    },
+    {
+        "arriveBy": "14:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "13:17",
+        "price": "23.60 pounds",
+        "trainID": "TR2512"
+    },
+    {
+        "arriveBy": "16:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "15:17",
+        "price": "23.60 pounds",
+        "trainID": "TR5502"
+    },
+    {
+        "arriveBy": "18:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "17:17",
+        "price": "23.60 pounds",
+        "trainID": "TR1149"
+    },
+    {
+        "arriveBy": "20:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "19:17",
+        "price": "23.60 pounds",
+        "trainID": "TR2106"
+    },
+    {
+        "arriveBy": "22:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "21:17",
+        "price": "23.60 pounds",
+        "trainID": "TR6883"
+    },
+    {
+        "arriveBy": "24:08",
+        "day": "thursday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "23:17",
+        "price": "23.60 pounds",
+        "trainID": "TR2564"
+    },
+    {
+        "arriveBy": "06:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "05:17",
+        "price": "23.60 pounds",
+        "trainID": "TR5219"
+    },
+    {
+        "arriveBy": "08:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "07:17",
+        "price": "23.60 pounds",
+        "trainID": "TR3228"
+    },
+    {
+        "arriveBy": "10:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "09:17",
+        "price": "23.60 pounds",
+        "trainID": "TR5686"
+    },
+    {
+        "arriveBy": "12:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "11:17",
+        "price": "23.60 pounds",
+        "trainID": "TR7195"
+    },
+    {
+        "arriveBy": "14:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "13:17",
+        "price": "23.60 pounds",
+        "trainID": "TR4748"
+    },
+    {
+        "arriveBy": "16:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "15:17",
+        "price": "23.60 pounds",
+        "trainID": "TR8842"
+    },
+    {
+        "arriveBy": "18:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "17:17",
+        "price": "23.60 pounds",
+        "trainID": "TR0835"
+    },
+    {
+        "arriveBy": "20:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "19:17",
+        "price": "23.60 pounds",
+        "trainID": "TR9139"
+    },
+    {
+        "arriveBy": "22:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "21:17",
+        "price": "23.60 pounds",
+        "trainID": "TR1581"
+    },
+    {
+        "arriveBy": "24:08",
+        "day": "friday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "23:17",
+        "price": "23.60 pounds",
+        "trainID": "TR4210"
+    },
+    {
+        "arriveBy": "06:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "05:17",
+        "price": "18.88 pounds",
+        "trainID": "TR2687"
+    },
+    {
+        "arriveBy": "08:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "07:17",
+        "price": "18.88 pounds",
+        "trainID": "TR8885"
+    },
+    {
+        "arriveBy": "10:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "09:17",
+        "price": "18.88 pounds",
+        "trainID": "TR4824"
+    },
+    {
+        "arriveBy": "12:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "11:17",
+        "price": "18.88 pounds",
+        "trainID": "TR7309"
+    },
+    {
+        "arriveBy": "14:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "13:17",
+        "price": "18.88 pounds",
+        "trainID": "TR5729"
+    },
+    {
+        "arriveBy": "16:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "15:17",
+        "price": "18.88 pounds",
+        "trainID": "TR4101"
+    },
+    {
+        "arriveBy": "18:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "17:17",
+        "price": "18.88 pounds",
+        "trainID": "TR7804"
+    },
+    {
+        "arriveBy": "20:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "19:17",
+        "price": "18.88 pounds",
+        "trainID": "TR7223"
+    },
+    {
+        "arriveBy": "22:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "21:17",
+        "price": "18.88 pounds",
+        "trainID": "TR5503"
+    },
+    {
+        "arriveBy": "24:08",
+        "day": "saturday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "23:17",
+        "price": "18.88 pounds",
+        "trainID": "TR8830"
+    },
+    {
+        "arriveBy": "06:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "05:17",
+        "price": "18.88 pounds",
+        "trainID": "TR3350"
+    },
+    {
+        "arriveBy": "08:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "07:17",
+        "price": "18.88 pounds",
+        "trainID": "TR8131"
+    },
+    {
+        "arriveBy": "10:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "09:17",
+        "price": "18.88 pounds",
+        "trainID": "TR3478"
+    },
+    {
+        "arriveBy": "12:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "11:17",
+        "price": "18.88 pounds",
+        "trainID": "TR7147"
+    },
+    {
+        "arriveBy": "14:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "13:17",
+        "price": "18.88 pounds",
+        "trainID": "TR1688"
+    },
+    {
+        "arriveBy": "16:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "15:17",
+        "price": "18.88 pounds",
+        "trainID": "TR7931"
+    },
+    {
+        "arriveBy": "18:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "17:17",
+        "price": "18.88 pounds",
+        "trainID": "TR2952"
+    },
+    {
+        "arriveBy": "20:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "19:17",
+        "price": "18.88 pounds",
+        "trainID": "TR1681"
+    },
+    {
+        "arriveBy": "22:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "21:17",
+        "price": "18.88 pounds",
+        "trainID": "TR4467"
+    },
+    {
+        "arriveBy": "24:08",
+        "day": "sunday",
+        "departure": "london kings cross",
+        "destination": "cambridge",
+        "duration": "51 minutes",
+        "leaveAt": "23:17",
+        "price": "18.88 pounds",
+        "trainID": "TR3724"
+    },
+    {
+        "arriveBy": "07:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "05:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3929"
+    },
+    {
+        "arriveBy": "09:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "07:59",
+        "price": "16.60 pounds",
+        "trainID": "TR1992"
+    },
+    {
+        "arriveBy": "11:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "09:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3085"
+    },
+    {
+        "arriveBy": "13:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "11:59",
+        "price": "16.60 pounds",
+        "trainID": "TR7276"
+    },
+    {
+        "arriveBy": "15:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "13:59",
+        "price": "16.60 pounds",
+        "trainID": "TR1764"
+    },
+    {
+        "arriveBy": "17:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "15:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3602"
+    },
+    {
+        "arriveBy": "19:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "17:59",
+        "price": "16.60 pounds",
+        "trainID": "TR7092"
+    },
+    {
+        "arriveBy": "21:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "19:59",
+        "price": "16.60 pounds",
+        "trainID": "TR0117"
+    },
+    {
+        "arriveBy": "23:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "21:59",
+        "price": "16.60 pounds",
+        "trainID": "TR4915"
+    },
+    {
+        "arriveBy": "01:27",
+        "day": "monday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "23:59",
+        "price": "16.60 pounds",
+        "trainID": "TR5431"
+    },
+    {
+        "arriveBy": "07:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "05:59",
+        "price": "16.60 pounds",
+        "trainID": "TR7299"
+    },
+    {
+        "arriveBy": "09:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "07:59",
+        "price": "16.60 pounds",
+        "trainID": "TR4259"
+    },
+    {
+        "arriveBy": "11:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "09:59",
+        "price": "16.60 pounds",
+        "trainID": "TR4494"
+    },
+    {
+        "arriveBy": "13:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "11:59",
+        "price": "16.60 pounds",
+        "trainID": "TR8394"
+    },
+    {
+        "arriveBy": "15:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "13:59",
+        "price": "16.60 pounds",
+        "trainID": "TR9404"
+    },
+    {
+        "arriveBy": "17:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "15:59",
+        "price": "16.60 pounds",
+        "trainID": "TR4276"
+    },
+    {
+        "arriveBy": "19:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "17:59",
+        "price": "16.60 pounds",
+        "trainID": "TR9561"
+    },
+    {
+        "arriveBy": "21:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "19:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3515"
+    },
+    {
+        "arriveBy": "23:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "21:59",
+        "price": "16.60 pounds",
+        "trainID": "TR5722"
+    },
+    {
+        "arriveBy": "01:27",
+        "day": "tuesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "23:59",
+        "price": "16.60 pounds",
+        "trainID": "TR0740"
+    },
+    {
+        "arriveBy": "07:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "05:59",
+        "price": "16.60 pounds",
+        "trainID": "TR1047"
+    },
+    {
+        "arriveBy": "09:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "07:59",
+        "price": "16.60 pounds",
+        "trainID": "TR2835"
+    },
+    {
+        "arriveBy": "11:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "09:59",
+        "price": "16.60 pounds",
+        "trainID": "TR5874"
+    },
+    {
+        "arriveBy": "13:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "11:59",
+        "price": "16.60 pounds",
+        "trainID": "TR4604"
+    },
+    {
+        "arriveBy": "15:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "13:59",
+        "price": "16.60 pounds",
+        "trainID": "TR5285"
+    },
+    {
+        "arriveBy": "17:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "15:59",
+        "price": "16.60 pounds",
+        "trainID": "TR2815"
+    },
+    {
+        "arriveBy": "19:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "17:59",
+        "price": "16.60 pounds",
+        "trainID": "TR4757"
+    },
+    {
+        "arriveBy": "21:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "19:59",
+        "price": "16.60 pounds",
+        "trainID": "TR6037"
+    },
+    {
+        "arriveBy": "23:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "21:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3626"
+    },
+    {
+        "arriveBy": "01:27",
+        "day": "wednesday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "23:59",
+        "price": "16.60 pounds",
+        "trainID": "TR4158"
+    },
+    {
+        "arriveBy": "07:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "05:59",
+        "price": "16.60 pounds",
+        "trainID": "TR4127"
+    },
+    {
+        "arriveBy": "09:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "07:59",
+        "price": "16.60 pounds",
+        "trainID": "TR1049"
+    },
+    {
+        "arriveBy": "11:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "09:59",
+        "price": "16.60 pounds",
+        "trainID": "TR2715"
+    },
+    {
+        "arriveBy": "13:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "11:59",
+        "price": "16.60 pounds",
+        "trainID": "TR5504"
+    },
+    {
+        "arriveBy": "15:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "13:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3672"
+    },
+    {
+        "arriveBy": "17:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "15:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3237"
+    },
+    {
+        "arriveBy": "19:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "17:59",
+        "price": "16.60 pounds",
+        "trainID": "TR6332"
+    },
+    {
+        "arriveBy": "21:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "19:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3315"
+    },
+    {
+        "arriveBy": "23:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "21:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3695"
+    },
+    {
+        "arriveBy": "01:27",
+        "day": "thursday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "23:59",
+        "price": "16.60 pounds",
+        "trainID": "TR5155"
+    },
+    {
+        "arriveBy": "07:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "05:59",
+        "price": "16.60 pounds",
+        "trainID": "TR5154"
+    },
+    {
+        "arriveBy": "09:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "07:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3892"
+    },
+    {
+        "arriveBy": "11:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "09:59",
+        "price": "16.60 pounds",
+        "trainID": "TR7057"
+    },
+    {
+        "arriveBy": "13:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "11:59",
+        "price": "16.60 pounds",
+        "trainID": "TR1750"
+    },
+    {
+        "arriveBy": "15:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "13:59",
+        "price": "16.60 pounds",
+        "trainID": "TR4187"
+    },
+    {
+        "arriveBy": "17:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "15:59",
+        "price": "16.60 pounds",
+        "trainID": "TR9956"
+    },
+    {
+        "arriveBy": "19:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "17:59",
+        "price": "16.60 pounds",
+        "trainID": "TR5212"
+    },
+    {
+        "arriveBy": "21:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "19:59",
+        "price": "16.60 pounds",
+        "trainID": "TR9941"
+    },
+    {
+        "arriveBy": "23:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "21:59",
+        "price": "16.60 pounds",
+        "trainID": "TR9557"
+    },
+    {
+        "arriveBy": "01:27",
+        "day": "friday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "23:59",
+        "price": "16.60 pounds",
+        "trainID": "TR3138"
+    },
+    {
+        "arriveBy": "07:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "05:59",
+        "price": "13.28 pounds",
+        "trainID": "TR2895"
+    },
+    {
+        "arriveBy": "09:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "07:59",
+        "price": "13.28 pounds",
+        "trainID": "TR0737"
+    },
+    {
+        "arriveBy": "11:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "09:59",
+        "price": "13.28 pounds",
+        "trainID": "TR1887"
+    },
+    {
+        "arriveBy": "13:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "11:59",
+        "price": "13.28 pounds",
+        "trainID": "TR3312"
+    },
+    {
+        "arriveBy": "15:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "13:59",
+        "price": "13.28 pounds",
+        "trainID": "TR4466"
+    },
+    {
+        "arriveBy": "17:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "15:59",
+        "price": "13.28 pounds",
+        "trainID": "TR4859"
+    },
+    {
+        "arriveBy": "19:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "17:59",
+        "price": "13.28 pounds",
+        "trainID": "TR8824"
+    },
+    {
+        "arriveBy": "21:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "19:59",
+        "price": "13.28 pounds",
+        "trainID": "TR2166"
+    },
+    {
+        "arriveBy": "23:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "21:59",
+        "price": "13.28 pounds",
+        "trainID": "TR1667"
+    },
+    {
+        "arriveBy": "01:27",
+        "day": "saturday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "23:59",
+        "price": "13.28 pounds",
+        "trainID": "TR8231"
+    },
+    {
+        "arriveBy": "07:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "05:59",
+        "price": "13.28 pounds",
+        "trainID": "TR1163"
+    },
+    {
+        "arriveBy": "09:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "07:59",
+        "price": "13.28 pounds",
+        "trainID": "TR8104"
+    },
+    {
+        "arriveBy": "11:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "09:59",
+        "price": "13.28 pounds",
+        "trainID": "TR0995"
+    },
+    {
+        "arriveBy": "13:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "11:59",
+        "price": "13.28 pounds",
+        "trainID": "TR9025"
+    },
+    {
+        "arriveBy": "15:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "13:59",
+        "price": "13.28 pounds",
+        "trainID": "TR2141"
+    },
+    {
+        "arriveBy": "17:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "15:59",
+        "price": "13.28 pounds",
+        "trainID": "TR0189"
+    },
+    {
+        "arriveBy": "19:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "17:59",
+        "price": "13.28 pounds",
+        "trainID": "TR7713"
+    },
+    {
+        "arriveBy": "21:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "19:59",
+        "price": "13.28 pounds",
+        "trainID": "TR9732"
+    },
+    {
+        "arriveBy": "23:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "21:59",
+        "price": "13.28 pounds",
+        "trainID": "TR3256"
+    },
+    {
+        "arriveBy": "01:27",
+        "day": "sunday",
+        "departure": "cambridge",
+        "destination": "london liverpool street",
+        "duration": "88 minutes",
+        "leaveAt": "23:59",
+        "price": "13.28 pounds",
+        "trainID": "TR7187"
+    },
+    {
+        "arriveBy": "07:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "05:39",
+        "price": "16.60 pounds",
+        "trainID": "TR5240"
+    },
+    {
+        "arriveBy": "09:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "07:39",
+        "price": "16.60 pounds",
+        "trainID": "TR3673"
+    },
+    {
+        "arriveBy": "11:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "09:39",
+        "price": "16.60 pounds",
+        "trainID": "TR7256"
+    },
+    {
+        "arriveBy": "13:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "11:39",
+        "price": "16.60 pounds",
+        "trainID": "TR7040"
+    },
+    {
+        "arriveBy": "15:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "13:39",
+        "price": "16.60 pounds",
+        "trainID": "TR6226"
+    },
+    {
+        "arriveBy": "17:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "15:39",
+        "price": "16.60 pounds",
+        "trainID": "TR9202"
+    },
+    {
+        "arriveBy": "19:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "17:39",
+        "price": "16.60 pounds",
+        "trainID": "TR3183"
+    },
+    {
+        "arriveBy": "21:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "19:39",
+        "price": "16.60 pounds",
+        "trainID": "TR0867"
+    },
+    {
+        "arriveBy": "23:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "21:39",
+        "price": "16.60 pounds",
+        "trainID": "TR5906"
+    },
+    {
+        "arriveBy": "01:07",
+        "day": "monday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "23:39",
+        "price": "16.60 pounds",
+        "trainID": "TR3938"
+    },
+    {
+        "arriveBy": "07:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "05:39",
+        "price": "16.60 pounds",
+        "trainID": "TR6939"
+    },
+    {
+        "arriveBy": "09:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "07:39",
+        "price": "16.60 pounds",
+        "trainID": "TR2715"
+    },
+    {
+        "arriveBy": "11:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "09:39",
+        "price": "16.60 pounds",
+        "trainID": "TR0088"
+    },
+    {
+        "arriveBy": "13:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "11:39",
+        "price": "16.60 pounds",
+        "trainID": "TR5691"
+    },
+    {
+        "arriveBy": "15:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "13:39",
+        "price": "16.60 pounds",
+        "trainID": "TR1395"
+    },
+    {
+        "arriveBy": "17:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "15:39",
+        "price": "16.60 pounds",
+        "trainID": "TR5245"
+    },
+    {
+        "arriveBy": "19:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "17:39",
+        "price": "16.60 pounds",
+        "trainID": "TR2855"
+    },
+    {
+        "arriveBy": "21:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "19:39",
+        "price": "16.60 pounds",
+        "trainID": "TR6833"
+    },
+    {
+        "arriveBy": "23:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "21:39",
+        "price": "16.60 pounds",
+        "trainID": "TR9616"
+    },
+    {
+        "arriveBy": "01:07",
+        "day": "tuesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "23:39",
+        "price": "16.60 pounds",
+        "trainID": "TR4781"
+    },
+    {
+        "arriveBy": "07:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "05:39",
+        "price": "16.60 pounds",
+        "trainID": "TR7020"
+    },
+    {
+        "arriveBy": "09:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "07:39",
+        "price": "16.60 pounds",
+        "trainID": "TR8813"
+    },
+    {
+        "arriveBy": "11:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "09:39",
+        "price": "16.60 pounds",
+        "trainID": "TR7519"
+    },
+    {
+        "arriveBy": "13:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "11:39",
+        "price": "16.60 pounds",
+        "trainID": "TR4161"
+    },
+    {
+        "arriveBy": "15:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "13:39",
+        "price": "16.60 pounds",
+        "trainID": "TR2826"
+    },
+    {
+        "arriveBy": "17:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "15:39",
+        "price": "16.60 pounds",
+        "trainID": "TR7978"
+    },
+    {
+        "arriveBy": "19:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "17:39",
+        "price": "16.60 pounds",
+        "trainID": "TR2232"
+    },
+    {
+        "arriveBy": "21:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "19:39",
+        "price": "16.60 pounds",
+        "trainID": "TR2823"
+    },
+    {
+        "arriveBy": "23:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "21:39",
+        "price": "16.60 pounds",
+        "trainID": "TR4119"
+    },
+    {
+        "arriveBy": "01:07",
+        "day": "wednesday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leaveAt": "23:39",
+        "price": "16.60 pounds",
+        "trainID": "TR0075"
+    },
+    {
+        "arriveBy": "07:07",
+        "day": "thursday",
+        "departure": "london liverpool street",
+        "destination": "cambridge",
+        "duration": "88 minutes",
+        "leave
